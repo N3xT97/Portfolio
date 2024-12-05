@@ -1,7 +1,7 @@
 📢 Intro
 ===
 
-> 안녕하세요. **멀웨어 분석가**를 꿈꾸는 **김정태**입니다.   
+> 안녕하세요. **멀웨어 분석가, 김정태**입니다.   
 
 🗃️ Portfolio
 ===
@@ -20,7 +20,8 @@
 > 🔎 분석한 멀웨어 샘플명
 > - Lockbit   
 > - Stealc   
-> - SmokeLoader   
+> - SmokeLoader
+> - HERMES & Ryuk   
 
 
 2️⃣ Malware-Information
