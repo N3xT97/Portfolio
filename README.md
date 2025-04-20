@@ -1,17 +1,32 @@
-📢 Intro
-===
-
-> 안녕하세요. **리버싱 전문가, 김정태**입니다.   
-
 🗃️ Portfolio
 ===
 
+## 🔎 개발 프로젝트
+
+> 🔧 Rust /C++ 기반 안티치트 프로그램 개발
+> 프로세스/폴더 감시 기능을 Rust 기반으로 개발 후, C++ 포팅 진행 
+> 추상화와 의존성 주입을 통해 확장 가능한 구조 설계, 단일 책임 원칙을 지키기 위해 노력
+
+### 1️⃣ anti-cheat-with-rust
+
+> 🔗 [anti-cheat-with-rust](https://github.com/N3xT97/anti-cheat-with-rust) 
+>    
+> 프로세스 모니터링
+> 폴더 모니터링
+
+### 2️⃣ anti-cheat-with-cpp (anti-cheat-with-rust를 cpp로 포팅)
+
+> 🔗 [anti-cheat-with-cpp](https://github.com/N3xT97/anti-cheat-with-cpp)  
+> 
+> 프로세스 모니터링
+
+## 🔎 악성코드 분석
+
 > **실제 사용되는 멀웨어 분석**을 목표로 공부하였습니다.   
 > 실제 멀웨어 샘플을 분석하고 **보고서 작성 및 기능 정리**를 하였습니다.   
-> **멀웨어 분석 방법**에 대한 정보도 정리하였습니다.   
+> **멀웨어 분석 방법**에 대한 정보도 정리하였습니다.
 
-1️⃣ Malware-Analysis
----
+### 1️⃣ Malware-Analysis
 
 > 🔗 [멀웨어 분석 보고서](https://github.com/N3xT97/Malware-Analysis)   
 >    
@@ -24,8 +39,7 @@
 > - HERMES & Ryuk   
 
 
-2️⃣ Malware-Information
----
+### 2️⃣ Malware-Information
 
 > 🔗 [멀웨어 기능 정리](https://github.com/N3xT97/Malware-Information)   
 >    
@@ -37,8 +51,7 @@
 > - GPO를 사용한 net spread
 
 
-3️⃣ Malware-Analysis-Guide
----
+### 3️⃣ Malware-Analysis-Guide
 
 > 🔗 [멀웨어 분석 방법](https://github.com/N3xT97/Malware-Analysis-Guide)   
 >    
@@ -49,8 +62,7 @@
 > - 닷넷 로더 분석
 > - 패킹 코드 분석
 
-4️⃣ CVE-Analysis
----
+### 4️⃣ CVE-Analysis
 
 > 🔗 [CVE 분석](https://github.com/N3xT97/CVE-Analysis)
 >
